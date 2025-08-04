@@ -1,9 +1,4 @@
 <h1>👋 Hi, I'm Pavan H S</h1>
-<style>
-  h1 {
-    align-content: center;
-    }
-</style>
 <hr>
 
 <h2>🧑‍💻 About Me</h2>
@@ -34,10 +29,3 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pavanhs04&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanhs04&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
