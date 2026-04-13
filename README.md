@@ -5,7 +5,7 @@
 <h2>🧑‍💻 About Me</h2>
 <ul>
   <li>🎓 BE in Computer Science Engineering</li>
-  <li>🤖 I'm currently learning <b>DevOps</b></li>
+  <li>🤖 I'm currently learning <b>AWS & AGENTIC AI</b></li>
 </ul>
 
 <hr>
@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+
 </p>
 
 <hr>
